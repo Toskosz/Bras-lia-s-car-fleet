@@ -4,4 +4,4 @@ The data used in this is public and can be accessed at http://www.dados.gov.br/d
 
 Feel free to make constructive criticisms.
 
-With this project i aim to get better at data analysis, data visualization and other subje
+With this project i aim to get better at data analysis, data visualization and other subjects
